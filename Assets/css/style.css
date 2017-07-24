@@ -1,3 +1,30 @@
+.navbar-default{
+	background-color: #def1ff;
+	border-bottom: 2px double blue;
+}
+
+.navbar-header{
+	float: left;
+}
+
+.navbar-right{
+	float: right;
+	display: inline;
+	width: auto;
+}
+
+body{
+	background: url("../images/background.jpg");
+}
+
+.panel-default{
+	border: 2px double blue;
+}
+
+#contact-panel{
+	min-height: 500px;
+}
+
 .footer{
 	position: relative;
 	bottom: 0;
@@ -5,7 +32,8 @@
 	border-top: 1px solid black;
 	width: 100%;
 	padding: 10px;
-	background-color: #f5f5f5;
+	background-color: #def1ff;
+	border-top: 2px double blue;
 }
 
 #profile-pic{
